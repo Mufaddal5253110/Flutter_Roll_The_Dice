@@ -1,6 +1,6 @@
 # flutter_rolling_dice
 
-A new Flutter project.
+![Diceroll](diceroll.gif)
 
 ## Getting Started
 
